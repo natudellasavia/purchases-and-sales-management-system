@@ -1,0 +1,214 @@
+# depslib dependency file v1.0
+1753726201 source:c:\users\natal\documents\natalí\programacion\utn\cursando\2024 - prog ii\proyecto kiosko\clscustomer.cpp
+	<iostream>
+	<cstring>
+	"clsCustomer.h"
+	"clsCustomersDataFile.h"
+
+1753726160 c:\users\natal\documents\natalí\programacion\utn\cursando\2024 - prog ii\proyecto kiosko\clscustomer.h
+	"clsPerson.h"
+
+1753729470 c:\users\natal\documents\natalí\programacion\utn\cursando\2024 - prog ii\proyecto kiosko\clsperson.h
+
+1753706691 c:\users\natal\documents\natalí\programacion\utn\cursando\2024 - prog ii\proyecto kiosko\clscustomersdatafile.h
+	"clsCustomer.h"
+	"string.h"
+
+1754946982 source:c:\users\natal\documents\natalí\programacion\utn\cursando\2024 - prog ii\proyecto kiosko\clscustomersdatafile.cpp
+	<iostream>
+	<clocale>
+	<cerrno>
+	"clsCustomer.h"
+	"clsCustomersDataFile.h"
+	"customerMenu.h"
+
+1753696250 c:\users\natal\documents\natalí\programacion\utn\cursando\2024 - prog ii\proyecto kiosko\customermenu.h
+	"clsCustomer.h"
+
+1754687370 source:c:\users\natal\documents\natalí\programacion\utn\cursando\2024 - prog ii\proyecto kiosko\clsdate.cpp
+	<iostream>
+	"clsDate.h"
+
+1753254710 c:\users\natal\documents\natalí\programacion\utn\cursando\2024 - prog ii\proyecto kiosko\clsdate.h
+
+1753729465 source:c:\users\natal\documents\natalí\programacion\utn\cursando\2024 - prog ii\proyecto kiosko\clsperson.cpp
+	<iostream>
+	<cstring>
+	"clsPerson.h"
+	"generalFunctions.h"
+
+1754724456 c:\users\natal\documents\natalí\programacion\utn\cursando\2024 - prog ii\proyecto kiosko\generalfunctions.h
+	"clsDate.h"
+
+1753301549 source:c:\users\natal\documents\natalí\programacion\utn\cursando\2024 - prog ii\proyecto kiosko\clsproduct.cpp
+	<iostream>
+	<cstring>
+	"clsProduct.h"
+	"clsProductsDataFile.h"
+	"generalFunctions.h"
+
+1753301539 c:\users\natal\documents\natalí\programacion\utn\cursando\2024 - prog ii\proyecto kiosko\clsproduct.h
+
+1754723183 c:\users\natal\documents\natalí\programacion\utn\cursando\2024 - prog ii\proyecto kiosko\clsproductsdatafile.h
+	"clsProduct.h"
+	"string.h"
+
+1754946530 source:c:\users\natal\documents\natalí\programacion\utn\cursando\2024 - prog ii\proyecto kiosko\clsproductsdatafile.cpp
+	<iostream>
+	<cstring>
+	<cerrno>
+	"clsProduct.h"
+	"clsProductsDataFile.h"
+	"productMenu.h"
+
+1754299571 c:\users\natal\documents\natalí\programacion\utn\cursando\2024 - prog ii\proyecto kiosko\productmenu.h
+	"clsProduct.h"
+
+1753727095 source:c:\users\natal\documents\natalí\programacion\utn\cursando\2024 - prog ii\proyecto kiosko\clssupplier.cpp
+	<iostream>
+	<cstring>
+	"clsSupplier.h"
+	"clsSupplierDataFile.h"
+
+1753726221 c:\users\natal\documents\natalí\programacion\utn\cursando\2024 - prog ii\proyecto kiosko\clssupplier.h
+	"clsPerson.h"
+
+1754035675 c:\users\natal\documents\natalí\programacion\utn\cursando\2024 - prog ii\proyecto kiosko\clssupplierdatafile.h
+	"clsSupplier.h"
+	"string.h"
+
+1754946511 source:c:\users\natal\documents\natalí\programacion\utn\cursando\2024 - prog ii\proyecto kiosko\clssupplierdatafile.cpp
+	<iostream>
+	<clocale>
+	<cerrno>
+	"clsSupplier.h"
+	"clsSupplierDataFile.h"
+	"supplierMenu.h"
+
+1753727890 c:\users\natal\documents\natalí\programacion\utn\cursando\2024 - prog ii\proyecto kiosko\suppliermenu.h
+	"clsSupplier.h"
+
+1755296551 source:c:\users\natal\documents\natalí\programacion\utn\cursando\2024 - prog ii\proyecto kiosko\customermenu.cpp
+	<iostream>
+	<clocale>
+	"customerMenu.h"
+	"clsPerson.h"
+	"clsCustomer.h"
+	"clsCustomersDataFile.h"
+	"generalFunctions.h"
+
+1754724494 source:c:\users\natal\documents\natalí\programacion\utn\cursando\2024 - prog ii\proyecto kiosko\generalfunctions.cpp
+	<iostream>
+	<clocale>
+	"generalFunctions.h"
+
+1755289412 source:c:\users\natal\documents\natalí\programacion\utn\cursando\2024 - prog ii\proyecto kiosko\productmenu.cpp
+	<iostream>
+	<clocale>
+	"productMenu.h"
+	"clsProduct.h"
+	"clsProductsDataFile.h"
+	"generalFunctions.h"
+
+1754948350 source:c:\users\natal\documents\natalí\programacion\utn\cursando\2024 - prog ii\proyecto kiosko\suppliermenu.cpp
+	<iostream>
+	<clocale>
+	"supplierMenu.h"
+	"clsPerson.h"
+	"clsSupplier.h"
+	"clsSupplierDataFile.h"
+	"generalFunctions.h"
+
+1755033060 source:c:\users\natal\documents\natalí\programacion\utn\cursando\2024 - prog ii\proyecto kiosko\main.cpp
+	<iostream>
+	"productMenu.h"
+	"customerMenu.h"
+	"supplierMenu.h"
+	"purchaseMenu.h"
+	"saleMenu.h"
+
+1755289078 source:c:\users\natal\documents\natalí\programacion\utn\cursando\2024 - prog ii\proyecto kiosko\clspurchase.cpp
+	<iostream>
+	<cstring>
+	"clsPurchase.h"
+	"clsPurchasesDataFile.h"
+	"clsProduct.h"
+	"clsSupplier.h"
+	"clsDate.h"
+	"generalFunctions.h"
+
+1754337153 c:\users\natal\documents\natalí\programacion\utn\cursando\2024 - prog ii\proyecto kiosko\clspurchase.h
+	"clsDate.h"
+
+1754723164 c:\users\natal\documents\natalí\programacion\utn\cursando\2024 - prog ii\proyecto kiosko\clspurchasesdatafile.h
+	"string.h"
+	"clsPurchase.h"
+
+1754946520 source:c:\users\natal\documents\natalí\programacion\utn\cursando\2024 - prog ii\proyecto kiosko\clspurchasesdatafile.cpp
+	<iostream>
+	<cstring>
+	<cerrno>
+	"clsPurchase.h"
+	"clsPurchasesDataFile.h"
+	"purchaseMenu.h"
+	"generalFunctions.h"
+
+1753858986 c:\users\natal\documents\natalí\programacion\utn\cursando\2024 - prog ii\proyecto kiosko\purchasesmenu.h
+	"clsPurchase.h"
+
+1754910670 c:\users\natal\documents\natalí\programacion\utn\cursando\2024 - prog ii\proyecto kiosko\purchasemenu.h
+	"clsPurchase.h"
+
+1755296189 source:c:\users\natal\documents\natalí\programacion\utn\cursando\2024 - prog ii\proyecto kiosko\purchasemenu.cpp
+	<iostream>
+	<clocale>
+	"purchaseMenu.h"
+	"clsPurchase.h"
+	"clsPurchasesDataFile.h"
+	"clsProductsDataFile.h"
+	"productMenu.h"
+	"clsSupplierDataFile.h"
+	"supplierMenu.h"
+	"generalFunctions.h"
+
+1754723620 source:c:\users\natal\documents\natalí\programacion\utn\cursando\2024 - prog ii\proyecto kiosko\clssale.cpp
+	<iostream>
+	<cstring>
+	"clsSale.h"
+	"clsSalesDataFile.h"
+	"clsProduct.h"
+	"clsCustomer.h"
+	"clsDate.h"
+	"generalFunctions.h"
+
+1754721882 c:\users\natal\documents\natalí\programacion\utn\cursando\2024 - prog ii\proyecto kiosko\clssale.h
+	"clsDate.h"
+
+1754916839 source:c:\users\natal\documents\natalí\programacion\utn\cursando\2024 - prog ii\proyecto kiosko\clssalesdatafile.cpp
+	<iostream>
+	<cstring>
+	<cerrno>
+	"clsSale.h"
+	"clsSalesDataFile.h"
+	"saleMenu.h"
+	"generalFunctions.h"
+
+1754724699 c:\users\natal\documents\natalí\programacion\utn\cursando\2024 - prog ii\proyecto kiosko\clssalesdatafile.h
+	"string.h"
+	"clsSale.h"
+
+1754908411 c:\users\natal\documents\natalí\programacion\utn\cursando\2024 - prog ii\proyecto kiosko\salemenu.h
+	"clsSale.h"
+
+1755289390 source:c:\users\natal\documents\natalí\programacion\utn\cursando\2024 - prog ii\proyecto kiosko\salemenu.cpp
+	<iostream>
+	<clocale>
+	"saleMenu.h"
+	"clsSale.h"
+	"clsSalesDataFile.h"
+	"clsProductsDataFile.h"
+	"productMenu.h"
+	"clsCustomersDataFile.h"
+	"customerMenu.h"
+	"generalFunctions.h"
+
