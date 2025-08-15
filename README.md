@@ -13,6 +13,6 @@ Suppliers and customers share the same information: identifier (must be unique),
 In both cases, the system lists the information by ID, identifier, and type of person. It can also filter by the same criteria plus the name.
 
 Purchases have an auto-increment ID, supplier ID, product ID, unit price, total price, quantity, and date. The system lists purchases by ID, product ID, and supplier ID.
-You can search purchases by the same criteria plus date range and amount range.
+You can search purchases by the same criteria plus date range and amount range. Products and suppliers must exist before registering a purchase.
 
-Sales are similar to purchases, but they have a customer ID instead of a supplier ID.
+Sales are similar to purchases, but they have a customer ID instead of a supplier ID. Customers must exist before registering a sale.
